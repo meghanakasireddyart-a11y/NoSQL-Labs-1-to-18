@@ -7,14 +7,14 @@ __pycache__/
 *.zip
 *.tar.gz
 
-# Environments
+# Environments and Virtualenvs
 .env
 .venv
 env/
 venv/
 ENV/
 
-# IDEs
+# Editor / IDE configuration
 .vscode/
 .idea/
 *.swp

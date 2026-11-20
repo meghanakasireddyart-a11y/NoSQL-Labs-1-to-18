@@ -17,4 +17,4 @@ Covers multi-model database classification, relational vs NoSQL paradigm compari
 - Required packages: `pip install pymongo`
 
 ## Author
-- GitHub: [mannuruprajwalreddy-netizen](https://github.com/mannuruprajwalreddy-netizen)
+- GitHub: [meghanakasireddyart-a11y](https://github.com/meghanakasireddyart-a11y)
