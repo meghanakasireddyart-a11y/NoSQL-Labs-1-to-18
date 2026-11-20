@@ -17,4 +17,4 @@ Design patterns (Subset, Bucket, Computed, Extended Reference), working set memo
 - Required packages: `pip install pymongo`
 
 ## Author
-- GitHub: [mannuruprajwalreddy-netizen](https://github.com/mannuruprajwalreddy-netizen)
+- GitHub: [meghanakasireddyart-a11y](https://github.com/meghanakasireddyart-a11y)
